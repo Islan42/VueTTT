@@ -1,5 +1,8 @@
-# vue-ttt
+Tic Tac Toe built with Vue
 
+Also [Built it with React](https://github.com/Islan42/ReactTTT)
+
+# VueTTT
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
